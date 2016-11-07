@@ -1,4 +1,4 @@
 .bundle
-.ass-cash
-.vender
-_site
+.sass-cache
+.vendor
+.site
